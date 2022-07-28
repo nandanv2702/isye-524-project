@@ -10,7 +10,7 @@ We will use real data gathered from multiple internet sources, such as the natio
 The [index.js](./index.js) file contains code that does the following
 1. Defines all parks in use (as in the `datasheet` file on the shared drive). Google Maps can automatically fill in details of the city, state, etc. as each park has a unique name
 2. Iterate through the parks, defining `(i, j)` combinations that will yield distance and time values from the Google Maps' [Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/). Note that distances and times for any `(i, j)` and `(j, i)` combination may be different as the optimal routes for each (as determined by Google) will be different. Thus, we're repeating these requests rather than using the same `(i, j)` values for the `(j, i)` pair.
-3. The distance and time values are stored in the same array, but for convenience, populate two different csv files with headers included. These are stored locally as `distanceResults.csv` and `timeResults.csv` when run on your device.
+3. The distance (miles) and time (seconds) values are stored in the same array, but for convenience, populate two different csv files with headers included. These are stored locally as `distanceResults.csv` and `timeResults.csv` when run on your device.
 
 ## How to Run this Locally
 - Install [NodeJS version 16.16.0](https://nodejs.org/en/)
