@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+    <name><![CDATA[List of national parks of the United States]]></name>
+    <open>1</open>
+    <Folder>
+        <name><![CDATA[National parks]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Acadia]]></name>
+            <Point>
+                <coordinates>-68.21,44.35,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-%3A0_11-2">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[National Park of American Samoa]]></name>
+            <Point>
+                <coordinates>-170.68,-14.25,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-15">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Arches]]></name>
+            <Point>
+                <coordinates>-109.57,38.68,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-16">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Badlands]]></name>
+            <Point>
+                <coordinates>-102.5,43.75,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-18">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Big Bend]]></name>
+            <Point>
+                <coordinates>-103.25,29.25,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-20">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Biscayne]]></name>
+            <Point>
+                <coordinates>-80.08,25.65,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-22">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Black Canyon of the Gunnison]]></name>
+            <Point>
+                <coordinates>-107.72,38.57,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-23">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bryce Canyon]]></name>
+            <Point>
+                <coordinates>-112.18,37.57,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-24">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Canyonlands]]></name>
+            <Point>
+                <coordinates>-109.93,38.2,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-25">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Capitol Reef]]></name>
+            <Point>
+                <coordinates>-111.17,38.2,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-26">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Carlsbad Caverns]]></name>
+            <Point>
+                <coordinates>-104.44,32.17,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-27">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Channel Islands]]></name>
+            <Point>
+                <coordinates>-119.42,34.01,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-29">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Congaree]]></name>
+            <Point>
+                <coordinates>-80.78,33.78,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-31">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Crater Lake]]></name>
+            <Point>
+                <coordinates>-122.1,42.94,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-33">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Cuyahoga Valley]]></name>
+            <Point>
+                <coordinates>-81.55,41.24,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-34">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Death Valley]]></name>
+            <Point>
+                <coordinates>-116.82,36.24,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-36">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Denali]]></name>
+            <Point>
+                <coordinates>-150.5,63.33,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-dvjt_39-0">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Dry Tortugas]]></name>
+            <Point>
+                <coordinates>-82.87,24.63,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-41">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Everglades]]></name>
+            <Point>
+                <coordinates>-80.93,25.32,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-evdt_43-0">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Gates of the Arctic]]></name>
+            <Point>
+                <coordinates>-153.3,67.78,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-evdt_43-1">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Gateway Arch]]></name>
+            <Point>
+                <coordinates>-90.19,38.63,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-46">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Glacier]]></name>
+            <Point>
+                <coordinates>-114,48.8,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-48">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Glacier Bay]]></name>
+            <Point>
+                <coordinates>-137,58.5,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-52">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Grand Canyon]]></name>
+            <Point>
+                <coordinates>-112.14,36.06,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-55">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Grand Teton]]></name>
+            <Point>
+                <coordinates>-110.8,43.73,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-57">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Great Basin]]></name>
+            <Point>
+                <coordinates>-114.3,38.98,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-biores_6-1">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Great Sand Dunes]]></name>
+            <Point>
+                <coordinates>-105.51,37.73,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-59">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Great Smoky Mountains]]></name>
+            <Point>
+                <coordinates>-83.53,35.68,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-60">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Guadalupe Mountains]]></name>
+            <Point>
+                <coordinates>-104.87,31.92,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-63">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Haleakalā]]></name>
+            <Point>
+                <coordinates>-156.17,20.72,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-64">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Hawaiʻi Volcanoes]]></name>
+            <Point>
+                <coordinates>-155.2,19.38,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-hawaii_66-0">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Hot Springs]]></name>
+            <Point>
+                <coordinates>-93.05,34.51,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-hawaii_66-1">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Indiana Dunes]]></name>
+            <Point>
+                <coordinates>-87.0524,41.6533,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-WhiteHouse_70-0">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Isle Royale]]></name>
+            <Point>
+                <coordinates>-88.55,48.1,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-71">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Joshua Tree]]></name>
+            <Point>
+                <coordinates>-115.9,33.79,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-73">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Katmai]]></name>
+            <Point>
+                <coordinates>-155,58.5,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-dvjt_39-1">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kenai Fjords]]></name>
+            <Point>
+                <coordinates>-149.65,59.92,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-75">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kings Canyon]]></name>
+            <Point>
+                <coordinates>-118.55,36.8,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-76">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kobuk Valley]]></name>
+            <Point>
+                <coordinates>-159.28,67.55,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-sekc_81-0">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lake Clark]]></name>
+            <Point>
+                <coordinates>-153.42,60.97,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-82">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lassen Volcanic]]></name>
+            <Point>
+                <coordinates>-121.51,40.49,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-83">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mammoth Cave]]></name>
+            <Point>
+                <coordinates>-86.1,37.18,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-84">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mesa Verde]]></name>
+            <Point>
+                <coordinates>-108.49,37.18,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-87">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mount Rainier]]></name>
+            <Point>
+                <coordinates>-121.75,46.85,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-89">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[New River Gorge]]></name>
+            <Point>
+                <coordinates>-81.08,38.07,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-91">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[North Cascades]]></name>
+            <Point>
+                <coordinates>-121.2,48.7,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-93">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Olympic]]></name>
+            <Point>
+                <coordinates>-123.5,47.97,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-94">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Petrified Forest]]></name>
+            <Point>
+                <coordinates>-109.78,35.07,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-98">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Pinnacles]]></name>
+            <Point>
+                <coordinates>-121.16,36.48,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-99">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Redwood]]></name>
+            <Point>
+                <coordinates>-124,41.3,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-100">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Rocky Mountain]]></name>
+            <Point>
+                <coordinates>-105.58,40.4,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-102">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Saguaro]]></name>
+            <Point>
+                <coordinates>-110.5,32.25,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-104">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sequoia]]></name>
+            <Point>
+                <coordinates>-118.68,36.43,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-105">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Shenandoah]]></name>
+            <Point>
+                <coordinates>-78.35,38.53,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-sekc_81-1">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Theodore Roosevelt]]></name>
+            <Point>
+                <coordinates>-103.45,46.97,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-107">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Virgin Islands]]></name>
+            <Point>
+                <coordinates>-64.73,18.33,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-108">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Voyageurs]]></name>
+            <Point>
+                <coordinates>-92.88,48.5,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-109">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[White Sands]]></name>
+            <Point>
+                <coordinates>-106.17,32.78,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-110">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Wind Cave]]></name>
+            <Point>
+                <coordinates>-103.48,43.57,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-112">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Wrangell – St. Elias]]></name>
+            <Point>
+                <coordinates>-142,61,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-114">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Yellowstone]]></name>
+            <Point>
+                <coordinates>-110.5,44.6,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-wsegb_54-1">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Yosemite]]></name>
+            <Point>
+                <coordinates>-119.5,37.83,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-118">List of national parks of the United States</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Zion]]></name>
+            <Point>
+                <coordinates>-113.05,37.3,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#cite_ref-120">List of national parks of the United States</a>]]></description>
+        </Placemark>
+    </Folder>
+</Document>
+</kml>
