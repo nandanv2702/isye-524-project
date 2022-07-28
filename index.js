@@ -16,12 +16,10 @@ const parks = [
     'Canyonlands National Park',
     'Capitol Reef National Park',
     'Carlsbad Caverns National Park',
-    'Channel Islands National Park',
     'Congaree National Park',
     'Crater Lake National Park',
     'Cuyahoga Valley National Park',
     'Death Valley National Park',
-    'Dry Tortugas National Park',
     'Everglades National Park',
     'Gateway Arch National Park',
     'Glacier National Park',
@@ -58,9 +56,11 @@ const parks = [
     'Zion National Park',
 ]
 
-parks.length = 5 // for testing
+// parks.length = 5 // uncomment if testing to see sample response
 
-// shorter method 
+// get data for all location combinations
+// NOTE: Google Maps is able to find park locations just by the name,
+// provided the park name is unique
 const res = await Promise.all(parks.map(async (origin) => {
     return await Promise.all(parks.map((dest) => {
         if (origin != dest) {
@@ -80,49 +80,34 @@ const res = await Promise.all(parks.map(async (origin) => {
                     return [dist, time]
                 })
                 .catch((e) => {
-                    console.log(e);
-                    return [[0, 0], [0, 0]]
+                    console.log(e.message);
+                    console.log(`Origin is ${origin} and Destination is ${dest}`)
+                    console.log(r)
+                    return [undefined, undefined]
                 });
         } else {
-            return [[0, 0], [0, 0]]
+            return [0, 0]
         }
     }))
 }))
 
-// longer method
-// for (let i = 0; i < parks.length; i++) {
-//     let origin = parks[i]
-//     results[origin] = {}
+// write results to file as csv
+let distanceInfo = ""
+let timeInfo = ""
 
-//     for (let j = 0; j < parks.length; j++) {
-//         if (i !== j) {
-//             let dest = parks[j]
+const distanceHeaders = ['', ...parks].join(',')
+distanceInfo += distanceHeaders + '\r\n'
 
-//             results[origin][dest] = await client
-//                 .distancematrix({
-//                     params: {
-//                         origins: [origin],
-//                         destinations: [dest],
-//                         travelMode: 'driving',
-//                         units: 'imperial',
-//                         key: GOOGLE_API_KEY,
-//                     },
-//                 })
-//                 .then((r) => {
-//                     const dist = r.data.rows[0].elements[0].distance.text.split(' ')[0] // in miles
-//                     const time = r.data.rows[0].elements[0].duration.value // in seconds
-//                     return [dist, time]
-//                 })
-//                 .catch((e) => {
-//                     console.log(e);
-//                     return [undefined, undefined]
-//                 });
-//         }
-//     }
-// }
+const timeHeaders = ['', ...parks].join(',')
+timeInfo += timeHeaders + '\r\n'
 
-// write results to file
-console.log(res)
-// Promise.all(res).then(r => console.log(r)).catch(e => console.error(e))
-// console.log(JSON.stringify)
-// writeFile('results.json', results)
+res.forEach((rowArray, idx) => {
+    let distRow = [parks[idx], rowArray.map((row) => row[0])].join(',');
+    distanceInfo += distRow + '\r\n';
+
+    let timeRow = [parks[idx], rowArray.map((row) => row[1])].join(',');
+    timeInfo += timeRow + '\r\n';
+})
+
+writeFile('distanceResults.csv', distanceInfo)
+writeFile('timeResults.csv', timeInfo)
