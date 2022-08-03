@@ -102,10 +102,10 @@ const timeHeaders = ['', ...parks].join(',')
 timeInfo += timeHeaders + '\r\n'
 
 res.forEach((rowArray, idx) => {
-    let distRow = [parks[idx], rowArray.map((row) => row[0])].join(',');
+    let distRow = [parks[idx], rowArray[0]].join(',');
     distanceInfo += distRow + '\r\n';
 
-    let timeRow = [parks[idx], rowArray.map((row) => row[1])].join(',');
+    let timeRow = [parks[idx], rowArray[1]].join(',');
     timeInfo += timeRow + '\r\n';
 })
 
