@@ -56,13 +56,13 @@ const parks = [
     'Zion National Park',
 ]
 
-// parks.length = 5 // uncomment if testing to see sample response
+parks.length = 3 // uncomment if testing to see sample response
 
 // get data for all location combinations
 // NOTE: Google Maps is able to find park locations just by the name,
 // provided the park name is unique
-const res = await Promise.all(parks.map(async (origin) => {
-    return await Promise.all(parks.map((dest) => {
+const res = await Promise.all(parks.map((origin) => {
+    return Promise.all(parks.map((dest) => {
         if (origin != dest) {
             return client
                 .distancematrix({
@@ -102,12 +102,14 @@ const timeHeaders = ['', ...parks].join(',')
 timeInfo += timeHeaders + '\r\n'
 
 res.forEach((rowArray, idx) => {
-    let distRow = [parks[idx], rowArray[0]].join(',');
+    let distRow = [parks[idx], rowArray.map(row => row[0])].join(',');
     distanceInfo += distRow + '\r\n';
 
-    let timeRow = [parks[idx], rowArray[1]].join(',');
+    let timeRow = [parks[idx], rowArray.map(row => row[1])].join(',');
     timeInfo += timeRow + '\r\n';
 })
+
+console.log(distanceInfo);
 
 writeFile('distanceResults.csv', distanceInfo)
 writeFile('timeResults.csv', timeInfo)

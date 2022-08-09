@@ -1,5 +1,6 @@
 node_modules
 .env
 *.csv
+cb_2018_us_state_5m
 .DS_Store
 .ipynb_checkpoints
